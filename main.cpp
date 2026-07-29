@@ -7,7 +7,7 @@ int factorial(int n) {
 int main()
 {
  cout<<"Hello World!"<<endl;
- int num = 100;
+ int num = 18;
     int result = factorial(num);
     cout << "Hello World! Factorial of " << num << " is " << result << endl;
     return 0;
